@@ -1,0 +1,10 @@
+D:\01_IT_all\00_STEP\Step_WinForms\Home0409_11_7_Watch\bin\Debug\Home0409_11_7_Watch.exe.config
+D:\01_IT_all\00_STEP\Step_WinForms\Home0409_11_7_Watch\bin\Debug\Home0409_11_7_Watch.exe
+D:\01_IT_all\00_STEP\Step_WinForms\Home0409_11_7_Watch\bin\Debug\Home0409_11_7_Watch.pdb
+D:\01_IT_all\00_STEP\Step_WinForms\Home0409_11_7_Watch\obj\Debug\Home0409_11_7_Watch.MainForm.resources
+D:\01_IT_all\00_STEP\Step_WinForms\Home0409_11_7_Watch\obj\Debug\Home0409_11_7_Watch.Properties.Resources.resources
+D:\01_IT_all\00_STEP\Step_WinForms\Home0409_11_7_Watch\obj\Debug\Home0409_11_7_Watch.csproj.GenerateResource.cache
+D:\01_IT_all\00_STEP\Step_WinForms\Home0409_11_7_Watch\obj\Debug\Home0409_11_7_Watch.csproj.CoreCompileInputs.cache
+D:\01_IT_all\00_STEP\Step_WinForms\Home0409_11_7_Watch\obj\Debug\Home0409_11_7_Watch.exe
+D:\01_IT_all\00_STEP\Step_WinForms\Home0409_11_7_Watch\obj\Debug\Home0409_11_7_Watch.pdb
+D:\01_IT_all\00_STEP\Step_WinForms\Home0409_11_7_Watch\obj\Debug\Home0409_11_7_Watch.csprojAssemblyReference.cache
